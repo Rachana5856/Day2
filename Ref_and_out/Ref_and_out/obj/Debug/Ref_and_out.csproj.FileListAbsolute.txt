@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\bin\Debug\Ref_and_out.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\bin\Debug\Ref_and_out.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\bin\Debug\Ref_and_out.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\obj\Debug\Ref_and_out.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\obj\Debug\Ref_and_out.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Ref_and_out\Ref_and_out\obj\Debug\Ref_and_out.pdb

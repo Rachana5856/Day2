@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\bin\Debug\static_Topics.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\bin\Debug\static_Topics.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\bin\Debug\static_Topics.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\obj\Debug\static_Topics.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\obj\Debug\static_Topics.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\static_Topics\static_Topics\obj\Debug\static_Topics.pdb

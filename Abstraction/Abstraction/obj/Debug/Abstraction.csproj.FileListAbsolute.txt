@@ -1,0 +1,6 @@
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+c:\users\vinuk\documents\visual studio 2013\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
